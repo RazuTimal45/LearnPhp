@@ -8,8 +8,8 @@
 <body>
     <?php
         $a = 13;
-        echo '$a nanu <br>'; 
-        echo  "$a raju";
+        echo '$a nanu <br>'; // 12 nanu
+        echo  "$a raju"; // $a raju
     ?>
 </body>
 </html>
