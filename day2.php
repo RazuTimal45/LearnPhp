@@ -61,5 +61,13 @@
     define("RAJU",'rabina');
     echo RAJU;
 
+    //magic constants
+    // __CLASS__ ==> class name is return
+    // __DIR__ ==> directory of file
+    // __FUNCTION__ ==> function name is returned
+    // __LINE__ ==> current line number
+    // __METHOD__ ==> used inside function that belongs to class
+    // __NAMESPACE__ ==> used inside namespace
+    // __TRAIT__ ==> used  inside trait
 
 ?>
