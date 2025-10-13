@@ -34,7 +34,7 @@
    $var4 = 5.3; //float
    $var2 = true; //boolean
    $var5Arr = ['rabina','raju']; //Array
-   $var7Arr = Array('rabina','raju');
+   $var7Arr = Array('rabina','raju'); //Array
    $var6Arr = [1,2,34]; //Array
    $var = null;//Null
 
