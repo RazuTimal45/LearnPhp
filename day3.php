@@ -68,17 +68,7 @@
     //         echo "Invalid case";
     //    }
 
-        //loops in php
-
-        // while
-        // do...while
-        // for
-        // foreach
-
-
-        // for($i=0;$i < 20;$i++){
-        //     echo "I am sorry for yesterday <br>";
-        // }
+        
     
 
 
