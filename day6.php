@@ -10,7 +10,6 @@
         <form action="day6_extra_file.php" method='GET'>
             <label for="name">Name: </label>
             <input type="mobile" name="name" id=""><br><br>
-
             <label for="mobile">Mobile Number: </label>
             <input type="number" name="mobile" id=""><br><br>
 
